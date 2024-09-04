@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Syed-Zaheerudee (student)
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning web dev(frontend)
 
 <!---
